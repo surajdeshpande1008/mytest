@@ -1,4 +1,4 @@
-from hamcrest import equal_to
+me codefrom hamcrest import equal_to
 from hamcrest import assert_that
 from hamcrest import has_item
 from hamcrest import contains
@@ -18,7 +18,7 @@ from hamcrest import greater_than_or_equal_to
 from hamcrest import less_than_or_equal_to
 
 import allure
-
+adsed some code
 
 @allure.step("Assert {0} and {1} are equal")
 def assert_equal(val1, val2, custom_error_msg="Both val are not equal"):
